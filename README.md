@@ -1,6 +1,6 @@
 # paradigma
 
-###Requisitos minimos:
+<h4>Requisitos minimos:</h4>
 <ol>
     <li>.NET 5</li>
     <li>dotnet tool  --global dotnet-ef</li>
