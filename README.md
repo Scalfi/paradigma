@@ -2,7 +2,7 @@
 
 ####Requisitos minimos:
 <ol>
-    <li>dotnet v5</li>
+    <li>.NET 5</li>
     <li>dotnet tool  --global dotnet-ef</li>
     <li>postgres</li>
     <li>Docker (opcional).</li>
